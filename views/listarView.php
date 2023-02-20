@@ -4,13 +4,13 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>MVC - Modelo, Vista, Controlador - Jourmoly</title>
+    <title>Antonio Pujante Cuenca</title>
 </head>
 
 <body>
     <table>
         <tr>
-            <th>ID
+            <th>Code
             </th>
             <th>Item
             </th>

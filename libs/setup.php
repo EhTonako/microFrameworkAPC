@@ -8,8 +8,8 @@ $config->set('modelsFolder', 'models/');
 $config->set('viewsFolder', 'views/');
 
 // Parámetros de conexión a la BD
-$config->set('dbhost', 'localhost');
-$config->set('dbname', 'dwesmvc');
+$config->set('dbhost', 'containers-us-west-27.railway.app');
+$config->set('dbname', 'railway');
 $config->set('dbuser', 'root');
-$config->set('dbpass', '');
+$config->set('dbpass', 'IAT5NMw9qzEE0X6h84VC');
 ?>
